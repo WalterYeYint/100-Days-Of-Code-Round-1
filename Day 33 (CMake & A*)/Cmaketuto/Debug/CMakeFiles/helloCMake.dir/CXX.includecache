@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/kan/DELTA/100 days of code (Redux)/Day 33/Cmaketuto/hello.hpp
+iostream
+-
+
+/media/kan/DELTA/100 days of code (Redux)/Day 33/Cmaketuto/main.cpp
+iostream
+-
+hello.hpp
+/media/kan/DELTA/100 days of code (Redux)/Day 33/Cmaketuto/hello.hpp
+

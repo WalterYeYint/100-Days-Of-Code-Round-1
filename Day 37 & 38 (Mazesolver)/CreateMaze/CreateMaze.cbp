@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CreateMaze" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CreateMaze" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CreateMaze" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="example/MazeStringBuilder.h" />
+		<Unit filename="example/Modified Path/AStar.h" />
+		<Unit filename="example/Modified Path/BreadthFirstSearch.h" />
+		<Unit filename="example/Modified Path/DepthFirstSearch.h" />
+		<Unit filename="example/Modified Path/Dijkstra.h" />
+		<Unit filename="example/Modified Path/Modified_Path.h" />
+		<Unit filename="example/Modified Path/Path.h" />
+		<Unit filename="example/driver.cpp" />
+		<Unit filename="four.in" />
+		<Unit filename="one.in" />
+		<Unit filename="src/Maze.h" />
+		<Unit filename="src/MazeBuilder.h" />
+		<Unit filename="src/Vertex.h" />
+		<Unit filename="three.in" />
+		<Unit filename="two.in" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

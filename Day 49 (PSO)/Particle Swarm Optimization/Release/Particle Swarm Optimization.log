@@ -1,0 +1,36 @@
+﻿Build started 07.06.2013 14:35:14.
+     1>Project "C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Particle Swarm Optimization.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Ox /Oi /Ot /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\david\documents\github\artificial-life\particle swarm optimization\swarm.h(208): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\david\documents\github\artificial-life\particle swarm optimization\swarm.h(209): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\shared\minwindef.h(130): warning C4005: 'APIENTRY' : macro redefinition
+                 C:\Users\David\Documents\GitHub\Artificial-Life\libs\glfw\include\GL\glfw.h(74) : see previous definition of 'APIENTRY'
+     1>C:\Program Files (x86)\Windows Kits\8.0\Include\um\wingdi.h(32): warning C4005: 'WINGDIAPI' : macro redefinition
+                 C:\Users\David\Documents\GitHub\Artificial-Life\libs\glfw\include\GL\glfw.h(91) : see previous definition of 'WINGDIAPI'
+     1>main.cpp(47): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(51): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>main.cpp(52): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\Particle Swarm Optimization.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\Particle Swarm Optimization.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\Particle Swarm Optimization.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\Timer.obj
+         Generating code
+         Finished generating code
+     1>GLFW.lib(enable.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(glext.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(init.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(input.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(win32_enable.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(win32_fullscreen.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(win32_glext.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(win32_init.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(win32_time.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(win32_window.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+     1>GLFW.lib(window.obj) : warning LNK4204: 'C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\vc110.pdb' is missing debugging information for referencing module; linking object as if no debug info
+         Particle Swarm Optimization.vcxproj -> C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Release\Particle Swarm Optimization.exe
+     1>Done Building Project "C:\Users\David\Documents\GitHub\Artificial-Life\Particle Swarm Optimization\Particle Swarm Optimization.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.87

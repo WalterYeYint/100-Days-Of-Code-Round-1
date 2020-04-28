@@ -1,0 +1,19 @@
+  780  nano hello.cpp
+  781  nano main.cpp
+  782  g++ main.cpp hello.cpp
+  783  nano hello.cpp
+  784  nano main.cpp
+  785  g++ main.cpp hello.cpp
+  786  ./a.out
+  787  cmake -version
+  788  nano CMakeLists.txt
+  789  rm a.out
+  790  mkdir Debug
+  791  mkdir Release
+  792  cd Debug
+  793  cmake
+  794  cmake -DCMAKE_BUILD_TYPE=Debug ../
+  795  make
+  796  ./helloCMake
+  797  cd ..
+  798  history > history_for_print.txt

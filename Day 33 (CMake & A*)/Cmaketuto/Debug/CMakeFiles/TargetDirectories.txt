@@ -1,0 +1,4 @@
+/media/kan/DELTA/100 days of code (Redux)/Day 33/Cmaketuto/Debug/CMakeFiles/rebuild_cache.dir
+/media/kan/DELTA/100 days of code (Redux)/Day 33/Cmaketuto/Debug/CMakeFiles/edit_cache.dir
+/media/kan/DELTA/100 days of code (Redux)/Day 33/Cmaketuto/Debug/CMakeFiles/helloCMake.dir
+/media/kan/DELTA/100 days of code (Redux)/Day 33/Cmaketuto/Debug/CMakeFiles/hello.dir

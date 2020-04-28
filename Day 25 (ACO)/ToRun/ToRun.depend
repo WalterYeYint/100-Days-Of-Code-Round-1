@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1549935741 source:/media/kan/DELTA/C,C++ code/GeekforGeeks/100 days of code/Day 21/ToRun/ACO.cpp
+	"ACO.h"
+	<cstdio>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<limits>
+	<climits>
+
+1549935749 /media/kan/DELTA/C,C++ code/GeekforGeeks/100 days of code/Day 21/ToRun/ACO.h
+	"Randoms.cpp"
+
+1549935770 /media/kan/DELTA/C,C++ code/GeekforGeeks/100 days of code/Day 21/ToRun/Randoms.cpp
+	<cstdlib>
+	<cmath>
+	<limits>
+
+1549937146 source:/media/kan/DELTA/C,C++ code/GeekforGeeks/100 days of code/Day 21/ToRun/main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<limits>
+	<climits>
+	"ACO.h"
+
+1549935770 source:/media/kan/DELTA/C,C++ code/GeekforGeeks/100 days of code/Day 21/ToRun/Randoms.cpp
+	<cstdlib>
+	<cmath>
+	<limits>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1559174402 source:/media/kan/DELTA/100 days of code (Redux)/Day 10/Composer/Composer.cpp
+	"Composer.h"
+
+1559174976 /media/kan/DELTA/100 days of code (Redux)/Day 10/Composer/Composer.h
+	<iostream>
+	<string>
+
+1559174617 source:/media/kan/DELTA/100 days of code (Redux)/Day 10/Composer/database.cpp
+	"database.h"
+
+1559175294 /media/kan/DELTA/100 days of code (Redux)/Day 10/Composer/database.h
+	<iostream>
+	"Composer.h"
+
+1559174731 source:/media/kan/DELTA/100 days of code (Redux)/Day 10/Composer/test_composer.cpp
+	<iostream>
+	"Composer.h"
+

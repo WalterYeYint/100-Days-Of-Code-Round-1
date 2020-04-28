@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1431565570 source:/media/kan/DELTA/100 days of code (Redux)/Day 12/ItalyHorse2/database.cc
+	<iostream>
+	<algorithm>
+	<fstream>
+	<string>
+	"database.h"
+
+1431565356 /media/kan/DELTA/100 days of code (Redux)/Day 12/ItalyHorse2/database.h
+	"employee.h"
+
+1559602325 /media/kan/DELTA/100 days of code (Redux)/Day 12/ItalyHorse2/employee.h
+

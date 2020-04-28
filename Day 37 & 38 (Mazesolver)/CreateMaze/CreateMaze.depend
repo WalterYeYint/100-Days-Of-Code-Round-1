@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1555390923 source:/media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/example/animate.cpp
+	"../src/Maze.h"
+	"MazeStringBuilder.h"
+	"Modified Path/Modified_Path.h"
+	"MazePrint.h"
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/src/Maze.h
+	"Vertex.h"
+	"MazeBuilder.h"
+	<list>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/src/Vertex.h
+	<climits>
+	<list>
+	<array>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/src/MazeBuilder.h
+	<cstdlib>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/example/MazeStringBuilder.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/example/Modified Path/Modified_Path.h
+	"Path.h"
+	"DepthFirstSearch.h"
+	"BreadthFirstSearch.h"
+	"Dijkstra.h"
+	"AStar.h"
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/example/Modified Path/Path.h
+	<list>
+	<queue>
+	"../../src/Vertex.h"
+
+1561863380 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/example/Modified Path/DepthFirstSearch.h
+	"Path.h"
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/example/Modified Path/BreadthFirstSearch.h
+	"Path.h"
+	<queue>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/example/Modified Path/Dijkstra.h
+	"Path.h"
+	<queue>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/example/Modified Path/AStar.h
+	"Dijkstra.h"
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37/CreateMaze/example/MazePrint.h
+	<chrono>
+	<thread>
+	<sstream>
+	<iostream>
+	<vector>
+	<string>
+	"../src/Maze.h"
+	<windows.h>
+
+1561922999 source:/media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/example/animate.cpp
+	"../src/Maze.h"
+	"MazeStringBuilder.h"
+	"Modified Path/Modified_Path.h"
+	"MazePrint.h"
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/src/Maze.h
+	"Vertex.h"
+	"MazeBuilder.h"
+	<list>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/src/Vertex.h
+	<climits>
+	<list>
+	<array>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/src/MazeBuilder.h
+	<cstdlib>
+
+1561923037 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/example/MazeStringBuilder.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/example/Modified Path/Modified_Path.h
+	"Path.h"
+	"DepthFirstSearch.h"
+	"BreadthFirstSearch.h"
+	"Dijkstra.h"
+	"AStar.h"
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/example/Modified Path/Path.h
+	<list>
+	<queue>
+	"../../src/Vertex.h"
+
+1561863380 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/example/Modified Path/DepthFirstSearch.h
+	"Path.h"
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/example/Modified Path/BreadthFirstSearch.h
+	"Path.h"
+	<queue>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/example/Modified Path/Dijkstra.h
+	"Path.h"
+	<queue>
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/example/Modified Path/AStar.h
+	"Dijkstra.h"
+
+1555390923 /media/kan/DELTA/100 days of code (Redux)/Day 37 (Mazesolver)/CreateMaze/example/MazePrint.h
+	<chrono>
+	<thread>
+	<sstream>
+	<iostream>
+	<vector>
+	<string>
+	"../src/Maze.h"
+	<windows.h>
+

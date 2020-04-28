@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PSOoptim" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PSOoptim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PSOoptim" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="constrained/sumt.hpp" />
+		<Unit filename="line_search/more_thuente.hpp" />
+		<Unit filename="logit_reg.cpp" />
+		<Unit filename="misc/determine_bounds_type.hpp" />
+		<Unit filename="misc/error_reporting.hpp" />
+		<Unit filename="misc/error_reporting.ipp" />
+		<Unit filename="misc/jacobian_adjust.hpp" />
+		<Unit filename="misc/misc.hpp" />
+		<Unit filename="misc/numerical_gradient.hpp" />
+		<Unit filename="misc/numerical_hessian.hpp" />
+		<Unit filename="misc/optim_options.hpp" />
+		<Unit filename="misc/optim_structs.hpp" />
+		<Unit filename="misc/transform_vals.hpp" />
+		<Unit filename="misc/unit_vec.hpp" />
+		<Unit filename="misc/unit_vec.ipp" />
+		<Unit filename="optim.hpp" />
+		<Unit filename="unconstrained/bfgs.hpp" />
+		<Unit filename="unconstrained/cg.hpp" />
+		<Unit filename="unconstrained/de.hpp" />
+		<Unit filename="unconstrained/de_prmm.hpp" />
+		<Unit filename="unconstrained/gd.hpp" />
+		<Unit filename="unconstrained/lbfgs.hpp" />
+		<Unit filename="unconstrained/newton.hpp" />
+		<Unit filename="unconstrained/nm.hpp" />
+		<Unit filename="unconstrained/pso.hpp" />
+		<Unit filename="unconstrained/pso_dv.hpp" />
+		<Unit filename="zeros/broyden.hpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

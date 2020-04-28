@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1559699231 source:/media/kan/DELTA/100 days of code (Redux)/Day 15 & 16/School/main.cpp
+	<iostream>
+	"Student.h"
+	"Teacher.h"
+
+1559699265 /media/kan/DELTA/100 days of code (Redux)/Day 15 & 16/School/Student.h
+	"Person.h"
+
+1559699313 /media/kan/DELTA/100 days of code (Redux)/Day 15 & 16/School/Person.h
+	<string>
+
+1559699364 /media/kan/DELTA/100 days of code (Redux)/Day 15 & 16/School/Teacher.h
+	"Person.h"
+
+1559699327 source:/media/kan/DELTA/100 days of code (Redux)/Day 15 & 16/School/Person.cpp
+	"Person.h"
+

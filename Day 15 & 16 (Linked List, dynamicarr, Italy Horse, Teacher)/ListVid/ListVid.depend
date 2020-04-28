@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559875060 source:/media/kan/DELTA/100 days of code (Redux)/Day 15 & 16/ListVid/List.cpp
+	<cstdlib>
+	<iostream>
+	"List.h"
+
+1559873405 /media/kan/DELTA/100 days of code (Redux)/Day 15 & 16/ListVid/List.h
+

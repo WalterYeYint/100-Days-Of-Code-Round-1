@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1558909972 source:/media/kan/DELTA/100 days of code (Redux)/Day 7/artillery/artillery_2.cpp
+	"cannonbolt.h"
+
+1558909962 /media/kan/DELTA/100 days of code (Redux)/Day 7/artillery/cannonbolt.h
+
+1558909038 source:/media/kan/DELTA/100 days of code (Redux)/Day 7/artillery/cannonbolt.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	"cannonbolt.h"
+
